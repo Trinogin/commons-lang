@@ -28,7 +28,7 @@ import java.util.stream.StreamSupport;
 import org.apache.commons.lang3.ArrayUtils;
 
 /**
- * A {@link StringTokenizer} that implements {@link Iterable}{@code <String>} and conversion methods {@link #toList()} and {@link #toStream()}.
+ * A {@link StringTokenizer} that implements {@link Iterable}{@code <String>} and conversion methods {@link #toList() toList()} and {@link #toStream() toStream()}.
  *
  * @since 3.18.0
  */
